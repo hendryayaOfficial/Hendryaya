@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Transport Claim Form",
+  "description": "Aplikasi Borang Tuntutan Pengangkutan bertemakan WhatsApp dengan muat naik resit kamera dan galeri, semakan status, dan eksport mesej.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
